@@ -1,0 +1,9 @@
+{ 
+    "login_title": "WELCOME BACK", 
+    "username": "Username or email",
+    "password": "Password",
+    "forgot_password": "Forgot password?",
+    "login_button": "Login",
+    "login_google": "Login with Google",
+    "login_microsoft": "Login with Office 365"
+}

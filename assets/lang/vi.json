@@ -1,0 +1,9 @@
+{ 
+    "login_title": "ĐĂNG NHẬP TÀI KHOẢN", 
+    "username": "Mã người dùng hoặc email",
+    "password": "Mật khẩu",
+    "forgot_password": "Quên mật khẩu?",
+    "login_button": "Đăng nhập",
+    "login_google": "Đăng nhập với Google",
+    "login_microsoft": "Đăng nhập với Office 365"
+}
